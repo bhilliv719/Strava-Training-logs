@@ -13,7 +13,8 @@ Check out the interactive Tableau dashboard here:
 👉 [View on Tableau Public](https://public.tableau.com/app/profile/billy.hill/viz/StravaRunningdata/Dashboard1)
 
 ## Preview
-![Dashboard Screenshot](<img width="1055" height="753" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/0bc63bde-4196-4b41-8655-0a091a72064a" />)
+[![Tableau Dashboard Screenshot](https://github.com/user-attachments/assets/0bc63bde-4196-4b41-8655-0a091a72064a)](https://github.com/user-attachments/assets/0bc63bde-4196-4b41-8655-0a091a72064a)
+
 
 
 ## Files
